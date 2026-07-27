@@ -1,5 +1,4 @@
-# Do Thi Thuy Anh — Portfolio (source project)
-
+# Do Thi Thuy Anh
 A clean, componentized React + Vite rebuild of the portfolio site. No bundling
 into one file — every section is its own component with its own stylesheet,
 and all editable content (projects, publications, experience, news, skills,
